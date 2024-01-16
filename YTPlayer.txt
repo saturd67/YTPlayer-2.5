@@ -1,0 +1,7 @@
+@echo off
+set VENV_PATH=%CD% + \venv\Scripts\activate.bat
+call %VENV_PATH%
+
+python main.py
+
+pause

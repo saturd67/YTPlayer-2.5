@@ -1,0 +1,30 @@
+><><><><><><><><><><><><><><><><
+	Command List
+><><><><><><><><><><><><><><><><
+
+===============
+YouTube Player
+===============
+exit					- turn off YT Player.
+{music | m}				- show the playing music.
+pause					- pause the playing music.
+{play | p} {musicName}			- search and play a music.
+purge					- clear the YT queue list.
+{randomPlay | rp}         		- Exit current YTPlayer, Clear current Queue List, random queue music and start YTPlayer
+{randomQueueMusic | random | rdm}	- add the musics in music list to queue list randomly.
+{remove | rm} {musicName}		- search and remove a music from music list (musicName can be empty).
+{repeat} {musicName} {number}		- Repeat playing a music. (Exp: repeat see you again 5)
+{save | sv} {musicName}			- save a music to music list.
+{showMusicList | sml} {musicName}	- list or search the saved music list (musicName can be empty).
+{showQueueList | sql} 			- list the YT queue list.
+skip					- jump to play the next music.
+start					- start YT Player.
+unpause					- continue the paused music.
+{volume | v} {0-100}			- change the volume of YT Player (0-100).
+
+============================
+Computer Assistance Manager
+============================
+cls					- clear screen
+
+
